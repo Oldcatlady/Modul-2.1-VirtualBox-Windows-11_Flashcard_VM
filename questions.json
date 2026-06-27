@@ -1,0 +1,58 @@
+[
+    {
+      "question": "Welches Dateiformat nutzt VirtualBox für virtuelle Festplatten?",
+      "answer": "VDI (VirtualBox Disk Image)."
+    },
+    {
+      "question": "Was bedeutet VDI?",
+      "answer": "VirtualBox Disk Image."
+    },
+    {
+      "question": "Welche Festplattengröße wird für Windows 11 in VirtualBox empfohlen?",
+      "answer": "80 GB."
+    },
+    {
+      "question": "Wie heißt das Benutzerverzeichnis unter Windows standardmäßig?",
+      "answer": "C:\\Users\\Benutzername (z. B. C:\\Users\\Admin)."
+    },
+    {
+      "question": "Was ist das Linux-Äquivalent zum Windows-Benutzerverzeichnis C:\\Users\\Admin?",
+      "answer": "Das Home-Verzeichnis, z. B. /home/admin unter Linux."
+    },
+    {
+      "question": "Was sollte nach der Windows-Installation als erstes gemacht werden?",
+      "answer": "Updates installieren, Hostnamen vergeben, Proxy-Einstellungen prüfen, Geräte-Manager kontrollieren."
+    },
+    {
+      "question": "Was zeigt ein gelbes Warnsymbol im Geräte-Manager an?",
+      "answer": "Einen fehlenden oder fehlerhaften Treiber für ein Gerät."
+    },
+    {
+      "question": "Was ist das Extension Pack und wo wird es installiert?",
+      "answer": "Das Extension Pack erweitert VirtualBox selbst — es wird auf dem Host-System installiert."
+    },
+    {
+      "question": "Welche Funktion ermöglicht das Extension Pack, die ohne es nicht verfügbar ist? (nenne drei)",
+      "answer": "USB 2.0/3.0-Unterstützung, Webcam-Weiterleitung, Remote-Desktop-Zugriff."
+    },
+    {
+      "question": "Was sind die Guest Additions und wo werden sie installiert?",
+      "answer": "Die Guest Additions sind Treiber/Tools, die innerhalb der laufenden VM installiert werden."
+    },
+    {
+      "question": "Wie bindet man die Guest Additions in VirtualBox ein?",
+      "answer": "Über das Menü: Geräte → Gasterweiterungen einlegen → dann innerhalb der VM installieren."
+    },
+    {
+      "question": "Was bewirken die Guest Additions bezüglich der Bildschirmauflösung?",
+      "answer": "Die Auflösung passt sich automatisch an — Fullscreen wird möglich."
+    },
+    {
+      "question": "Was ist das Problem mit dem Mauszeiger ohne Guest Additions?",
+      "answer": "Der Mauszeiger wird von der VM „gefangen\" und muss mit der Host-Taste befreit werden."
+    },
+    {
+      "question": "Was muss man einstellen, damit die Zwischenablage zwischen Host und VM funktioniert?",
+      "answer": "Die gemeinsame Zwischenablage muss auf „Bidirektional\" gestellt werden."
+    }
+  ]
