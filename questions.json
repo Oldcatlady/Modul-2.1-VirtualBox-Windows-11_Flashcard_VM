@@ -20,7 +20,7 @@
       "answer": "Das Home-Verzeichnis, z. B. /home/admin unter Linux."
     },
     {
-      "question": "Was sollte nach der Windows-Installation als erstes gemacht werden?",
+      "question": "Welche Maßnahmen sind nach der Erstinstallation von Windows in einer Virtuellen Maschine sinnvoll?",
       "answer": "Updates installieren, Hostnamen vergeben, Proxy-Einstellungen prüfen, Geräte-Manager kontrollieren."
     },
     {
