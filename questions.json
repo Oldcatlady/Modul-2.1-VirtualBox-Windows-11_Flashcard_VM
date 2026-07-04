@@ -52,7 +52,7 @@
       "answer": "Der Mauszeiger wird von der VM „gefangen\" und muss mit der Host-Taste befreit werden."
     },
     {
-      "question": "Was muss man einstellen, damit die Zwischenablage zwischen Host und VM gemeinsam geutzt werden kann?",
+      "question": "Was muss man einstellen, damit die Zwischenablage zwischen Host und VM gemeinsam genutzt werden kann?",
       "answer": "Die gemeinsame Zwischenablage muss auf „Bidirektional\" gestellt werden."
     }
   ]
