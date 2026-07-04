@@ -1,7 +1,7 @@
 [
     {
       "question": "Welches Dateiformat nutzt VirtualBox für virtuelle Festplatten?",
-      "answer": "VDI (VirtualBox Disk Image)."
+      "answer": "VDI."
     },
     {
       "question": "Was bedeutet VDI?",
@@ -9,7 +9,7 @@
     },
     {
       "question": "Welche Festplattengröße wird für Windows 11 in VirtualBox empfohlen?",
-      "answer": "80 GB."
+      "answer": "Die Festplattengröße sollte mindestens 80 GB betragen."
     },
     {
       "question": "Wie heißt das Benutzerverzeichnis unter Windows standardmäßig?",
@@ -32,8 +32,8 @@
       "answer": "Das Extension Pack erweitert VirtualBox selbst — es wird auf dem Host-System installiert."
     },
     {
-      "question": "Welche Funktion ermöglicht das Extension Pack, die ohne es nicht verfügbar ist? (nenne drei)",
-      "answer": "USB 2.0/3.0-Unterstützung, Webcam-Weiterleitung, Remote-Desktop-Zugriff."
+      "question": "Welche Funktionen ermöglicht das Extension Pack, die ohne es nicht verfügbar sind? (nenne drei)",
+      "answer": "USB 2.0/3.0-Unterstützung, Webcam-Weiterleitung, Remote-Desktop-Zugriff, Festplattenverschlüsselung (Disk Encryption)."
     },
     {
       "question": "Was sind die Guest Additions und wo werden sie installiert?",
@@ -52,7 +52,7 @@
       "answer": "Der Mauszeiger wird von der VM „gefangen\" und muss mit der Host-Taste befreit werden."
     },
     {
-      "question": "Was muss man einstellen, damit die Zwischenablage zwischen Host und VM funktioniert?",
+      "question": "Was muss man einstellen, damit die Zwischenablage zwischen Host und VM gemeinsam geutzt werden kann?",
       "answer": "Die gemeinsame Zwischenablage muss auf „Bidirektional\" gestellt werden."
     }
   ]
