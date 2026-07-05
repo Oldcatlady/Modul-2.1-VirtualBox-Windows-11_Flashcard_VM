@@ -7,6 +7,10 @@
       "question": "Was bedeutet VDI?",
       "answer": "VirtualBox Disk Image."
     },
+     {
+  "frage": "Wie unterscheiden sich Emulation, Paravirtualisierung und Container-Virtualisierung?",
+  "antwort": "Emulation = maximale Kompatibilität, aber langsam. Die Hardware wird vollständig nachgebildet (📦 kompletter Computer).\n\nParavirtualisierung = Das Gastbetriebssystem arbeitet mit dem Hypervisor zusammen. Dadurch ist sie schneller und effizienter als Emulation (📦⚡ kompletter Computer mit Unterstützung).\n\nContainer-Virtualisierung = Kein eigenes Betriebssystem, sondern ein gemeinsamer Kernel. Dadurch sind Container am schnellsten und besonders ressourcensparend (📦✨ nur die Anwendung mit ihren benötigten Dateien).\n\nMerksatz: Emulation = kompatibel, Paravirtualisierung = schneller, Container = am schnellsten und ressourcensparend."
+    },
     {
       "question": "Welche Festplattengröße wird für Windows 11 in VirtualBox empfohlen?",
       "answer": "Die Festplattengröße sollte mindestens 80 GB betragen."
